@@ -1,0 +1,6 @@
+[submodule "pack/vendor/start/kanagawa.nvim"]
+	path = pack/vendor/start/kanagawa.nvim
+	url = https://github.com/rebelot/kanagawa.nvim.git
+[submodule "pack/vendor/start/nvim-lspconfig"]
+	path = pack/vendor/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
