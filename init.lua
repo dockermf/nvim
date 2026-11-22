@@ -122,4 +122,4 @@ vim.lsp.enable("lua_ls")
 vim.cmd.syntax("enable")
 
 -- Default theme
-vim.cmd.colorscheme("kanagawa") -- Favorites: tokyonight-night, catppuccin-mocha, kanagawa (dragon)
+vim.cmd.colorscheme("kanagawa-dragon") -- Favorites: tokyonight-night, catppuccin-mocha, kanagawa (dragon)
